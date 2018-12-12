@@ -1,6 +1,16 @@
 # TelegramTrader-MT4-MT5
 Connect Telegram Messenger to Metatrader for Trading, Controlling Robots, Monitoring Platform. Open trades, Open charts, use custom templates for technical analsysi on the go. Launch templates with robots attached to charts for semi-auto trading. Get prices and Daily Percentage change. 
 
+## Trading commands
+* Buy or Sell (Market Order)
+* Lock in profits (**Trail** button)
+* Move takeprofit to breakeven (**Breakeven** or BE button)
+* Close position and reverse direction (**Reverse** button)
+* Move Takeprofit to recent fractal (**SetTakeProfit** button)
+* Move Stoploss to recent fractal (**SetStopLoss** button)
+* Close all positions immediately (**Close** button)
+* Close your profitable positions (**Profit** button)
+
 [Test Demo now](https://t.me/fx4btc_bot)
 
 # Adding the files to your MetaTrader Platform
@@ -33,6 +43,8 @@ Download the github zip folder to your desktop , extract the contents and prepar
 # Telegram_Trader Robot Guide 
 | Input Variable | Value Description |
 | ----------- | ----------- |
+| Trading Experience Mode | Adjusts your lotsize from 0.01, 0.05, 0.1, 0.5, 1.0 (select,noob,fomo, expert, btfd,pro)
+| Alternative Lotsize | Adjust your own lotsize if Trading Experience Mode = Select
 |TELEGRAM_TOKEN | Insert your Telegram_Token |
 | [PM @botfather](https://telegram.me/botfather) within the telegarm application (search box) | Type in **/newbot**, give a name, give the @handle_name_bot that you want your bot to have  , and copy paste the Telegram Token into the TELEGRAM_TOKEN. If you are stuck on this step, google "How to make a Telegam bot" |
 |WHITE_LIST_USERS | Insert your telegram username here, unless you want to share the bot and your trading account with every Telegram User like I do ( So that users can demo the application and share the charts with a trading group.) |
