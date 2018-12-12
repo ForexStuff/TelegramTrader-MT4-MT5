@@ -1,7 +1,7 @@
 # TelegramTrader-MT4-MT5
 Connect Telegram Messenger to Metatrader for Trading, Controlling Robots, Monitoring Platform. Open trades, Open charts, use custom templates for technical analsysi on the go. Launch templates with robots attached to charts for semi-auto trading. Get prices and Daily Percentage change. 
 
-(Test Demo now)[https:t.me/fx4btc_bot]
+[Test Demo now](https:t.me/fx4btc_bot)
 
 # Adding the files to your MetaTrader Platform
 Download the github zip folder to your desktop , extract the contents and prepare moving the files to the appropiate directories from the directions below.
