@@ -13,7 +13,7 @@ Expert advisor (ex.4/ex.5) is a lifetime license for your MT4, MT5 trading accou
 * Close all positions immediately (**Close** button)
 * Close your profitable positions (**Profit** button)
 
-[Test Demo now](https://t.me/fx4btc_bot)
+[Test Demo now](http://t.me/TTraderMT4Bot)
 
 
 # How to buy a license
