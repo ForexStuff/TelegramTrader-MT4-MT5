@@ -1,3 +1,6 @@
+**MT4**  [Test Demo now](http://t.me/TTraderMT4Bot)
+**MT5**  [Test Demo now](http://t.me/TTraderMT5Bot)
+
 # TelegramTrader-MT4-MT5
 Connect Telegram Messenger to Metatrader for Trading, Controlling Robots, Monitoring Platform. Open trades, Open charts, use custom templates for technical analsysi on the go. Launch templates with robots attached to charts for semi-auto trading. Get prices and Daily Percentage change. 
 
@@ -13,12 +16,9 @@ Expert advisor (ex.4/ex.5) is a lifetime license for your MT4, MT5 trading accou
 * Close all positions immediately (**Close** button)
 * Close your profitable positions (**Profit** button)
 
-[Test Demo now](http://t.me/TTraderMT4Bot)
-
-
 # How to buy a license
 
-1. Send CryptoCurrency equivalent of $300 USD to address
+1. Send CryptoCurrency equivalent of **$200** USD to address
 * BTC = [1J2Ltc9MUZdYTDt7Dgz8fGuc6XZPMp3tKV](https://www.blockchain.com/btc/address/1J2Ltc9MUZdYTDt7Dgz8fGuc6XZPMp3tKV)
 * ETH = [0xDB62488D2986d780D3cbF17DB03DCDf6aDE201cc](https://etherscan.io/address/0xDB62488D2986d780D3cbF17DB03DCDf6aDE201cc)
 * GVT = [0x5e3215839d72328f696856ffe878aFa907453921](https://etherscan.io/address/0x5e3215839d72328f696856ffe878aFa907453921)
