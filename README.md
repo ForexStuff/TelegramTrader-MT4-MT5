@@ -1,14 +1,18 @@
 **MT4**  [Test Demo now](http://t.me/TTraderMT4Bot)
 **MT5**  [Test Demo now](http://t.me/TTraderMT5Bot)
 
-#TelegramTrader ChatRoom
+## TelegramTrader ChatRoom
 **MT4**  [FOREX](http://t.me/forex_telegram_trader)
 **MT5**  [CRYPTO](http://t.me/crypto_telegram_trader)
 
 # TelegramTrader-MT4-MT5
-Connect Telegram Messenger to Metatrader for Trading, Controlling Robots, Monitoring Platform. Open trades, Open charts, use custom templates for technical analsysi on the go. Launch templates with robots attached to charts for semi-auto trading. Get prices and Daily Percentage change. 
+Connect Telegram Messenger to Metatrader for Trading, Controlling Robots, Monitoring Platform. Open trades, Open charts, use custom templates for technical analsysi on the go. Launch templates with robots attached to charts for semi-auto trading. Get prices and Daily Percentage change. Get the swap rates positive or negative from SWAP_LONG or SWAP_SHORT 
 
 Expert advisor (ex.4/ex.5) is a lifetime license for your MT4, MT5 trading accounts. Robot license is hardcoded to your Telegram bot token (follow **Robot Guide** for instructions). Use with Demo or Live trading accounts. 
+## Standard commands
+* Quotes (daily percentage change)
+* Charts (any chart timeframe with custom templates)
+
 
 ## Trading commands
 * Buy or Sell (Market Order)
@@ -19,6 +23,11 @@ Expert advisor (ex.4/ex.5) is a lifetime license for your MT4, MT5 trading accou
 * Move Stoploss to recent fractal (**SetStopLoss** button)
 * Close all positions immediately (**Close** button)
 * Close your profitable positions (**Profit** button)
+
+## Bot commands
+* Attach bots to any market on any timeframe
+* Delete the bots from the charts
+* turn on bots or turn bots off at anytime ( requires some coding into your robot)
 
 # How to buy a license
 
