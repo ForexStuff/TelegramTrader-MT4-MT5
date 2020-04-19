@@ -8,13 +8,14 @@
 # TelegramTrader-MT4-MT5
 Connect Telegram Messenger to Metatrader for Trading, Controlling Robots, Monitoring Platform. Open trades, Open charts, use custom templates for technical analsysi on the go. Launch templates with robots attached to charts for semi-auto trading. Get prices and Daily Percentage change. Get the swap rates positive or negative from SWAP_LONG or SWAP_SHORT 
 
-Expert advisor (ex.4/ex.5) is a lifetime license for your MT4, MT5 trading accounts. Robot license is hardcoded to your Telegram bot token (follow **Robot Guide** for instructions). Use with Demo or Live trading accounts. 
+Use with Demo or Live trading accounts. 
+
 ## Standard commands
 * Quotes (daily percentage change)
 * Charts (any chart timeframe with custom templates)
 
 
-## Trading commands
+## TT 1.0 Trading commands
 * Buy or Sell (Market Order)
 * Lock in profits (**Trail** button)
 * Move takeprofit to breakeven (**Breakeven** or BE button)
@@ -24,32 +25,30 @@ Expert advisor (ex.4/ex.5) is a lifetime license for your MT4, MT5 trading accou
 * Close all positions immediately (**Close** button)
 * Close your profitable positions (**Profit** button)
 
-## Bot commands
+## TT 1.0 Bot commands
 * Attach bots to any market on any timeframe
 * Delete the bots from the charts
 * turn on bots or turn bots off at anytime ( requires some coding into your robot)
 
-# How to buy a license
+## TT 2.0 Trading commands
 
-1. Send CryptoCurrency equivalent of **$200** USD to address
-* BTC = [1J2Ltc9MUZdYTDt7Dgz8fGuc6XZPMp3tKV](https://www.blockchain.com/btc/address/1J2Ltc9MUZdYTDt7Dgz8fGuc6XZPMp3tKV)
-* ETH = [0xDB62488D2986d780D3cbF17DB03DCDf6aDE201cc](https://etherscan.io/address/0xDB62488D2986d780D3cbF17DB03DCDf6aDE201cc)
-* GVT = [0x5e3215839d72328f696856ffe878aFa907453921](https://etherscan.io/address/0x5e3215839d72328f696856ffe878aFa907453921)
-* USDt = coming soon
+| Function | Telegram Keyboard Commands
+|----------- | ----------|
 
-[BTC Exchange Rate](https://www.binance.com/en/trade/BTC_USDT)
+|Price|	/p|
+|Chart|	/c|
+|OrderBook|	/book|
+|Position|	/pos|
+|Cancel Orders|	/cancel|
+|Close Position|	/close|
+|Buy Limit Order|	/bid|
+|Sell Limit Order|	/ask|
+|Limit Order Price|	/ask_p1000 /bid_p10|
+|Volume change|	/Volume value|
+|Symbol change|	/Symbol BTCUSD|
 
-[ETH Exchange Rate](https://www.binance.com/en/trade/ETH_USDT)
 
-[GVT Exchange Rate](https://www.binance.com/en/trade/GVT_BTC)
 
-2. Fill out the [google sheets](https://docs.google.com/spreadsheets/d/1M5fCzfyjS4eT4gxLzluJA15UeO1ExDcSfrILpST3Aiw) with the following information
-* Telegram Bot Token (unlimited License)
-* Payment Type
-* TxHash of your payment
-* Telegram Username such as [@Hedgebitcoin](t.me/Hedgebitcoin)
-
-3. Robot will be sent via Telegram. Future updates will be available on github for downloading 
 
 # Adding the files to your MetaTrader Platform
 Download the github zip folder to your desktop , extract the contents and prepare moving the files to the appropiate directories from the directions below.
