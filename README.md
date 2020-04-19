@@ -32,7 +32,7 @@ Use with Demo or Live trading accounts.
 
 ## TT 2.0 Trading commands
 
-| Function | Telegram Keyboard Commands
+| Function | Telegram Keyboard Commands |
 |----------- | ----------|
 
 | Price |	/p |
