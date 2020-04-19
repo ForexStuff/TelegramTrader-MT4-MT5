@@ -35,17 +35,17 @@ Use with Demo or Live trading accounts.
 | Function | Telegram Keyboard Commands
 |----------- | ----------|
 
-|Price|	/p|
-|Chart|	/c|
-|OrderBook|	/book|
-|Position|	/pos|
-|Cancel Orders|	/cancel|
-|Close Position|	/close|
-|Buy Limit Order|	/bid|
-|Sell Limit Order|	/ask|
-|Limit Order Price|	/ask_p1000 /bid_p10|
-|Volume change|	/Volume value|
-|Symbol change|	/Symbol BTCUSD|
+| Price |	/p |
+| Chart |	/c |
+| OrderBook |	/book |
+| Position |	/pos |
+| Cancel Orders |	/cancel |
+| Close Position |	/close |
+| Buy Limit Order |	/bid |
+| Sell Limit Order |	/ask |
+| Limit Order Price |	/ask_p1000 /bid_p10 |
+| Volume change |	/Volume value |
+| Symbol change |	/Symbol BTCUSD |
 
 
 
