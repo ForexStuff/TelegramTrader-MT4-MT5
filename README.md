@@ -34,7 +34,6 @@ Use with Demo or Live trading accounts.
 
 | Function | Telegram Keyboard Commands |
 |----------- | ----------|
-
 | Price |	/p |
 | Chart |	/c |
 | OrderBook |	/book |
